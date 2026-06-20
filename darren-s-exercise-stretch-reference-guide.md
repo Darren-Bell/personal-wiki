@@ -1,3 +1,11 @@
+---
+type: Note
+Kind:
+  - "Reference"
+related_to:
+  - "[[darren]]"
+_organized: true
+---
 # DARREN'S EXERCISE & STRETCH REFERENCE GUIDE
 ## 12-Week Transformation Plan — Video & Form Reference
 
